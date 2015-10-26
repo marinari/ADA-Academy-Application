@@ -1,4 +1,4 @@
 # ADA-Academy-Application
-Arianna Marin submission for steps 1, 2, and 3 application to ADA Developers Academy. 
+Arianna Marin profile for application to ADA developer academy. Gist includes resume and essay responses.
 
-January 2016 cohort- Submission deadline Oct 26
+January 2016 cohort- Submission deadline Oct 27th.
